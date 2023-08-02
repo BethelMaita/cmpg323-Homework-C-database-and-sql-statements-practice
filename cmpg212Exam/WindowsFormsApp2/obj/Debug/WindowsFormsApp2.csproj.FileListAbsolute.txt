@@ -1,0 +1,46 @@
+C:\Users\Tshimbiluni\source\repos\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe.config
+C:\Users\Tshimbiluni\source\repos\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe
+C:\Users\Tshimbiluni\source\repos\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.pdb
+C:\Users\Tshimbiluni\source\repos\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.AssemblyReference.cache
+C:\Users\Tshimbiluni\source\repos\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.SuggestedBindingRedirects.cache
+C:\Users\Tshimbiluni\source\repos\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Form1.resources
+C:\Users\Tshimbiluni\source\repos\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Login.resources
+C:\Users\Tshimbiluni\source\repos\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Properties.Resources.resources
+C:\Users\Tshimbiluni\source\repos\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Register.resources
+C:\Users\Tshimbiluni\source\repos\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.GenerateResource.cache
+C:\Users\Tshimbiluni\source\repos\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.CoreCompileInputs.cache
+C:\Users\Tshimbiluni\source\repos\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.exe
+C:\Users\Tshimbiluni\source\repos\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.pdb
+C:\Users\Tshimbiluni\source\repos\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Dashboard.resources
+C:\Users\Bethel\Documents\cmpg212 exam\final exam\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\User.mdf
+C:\Users\Bethel\Documents\cmpg212 exam\final exam\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\User_log.ldf
+C:\Users\Bethel\Documents\cmpg212 exam\final exam\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe.config
+C:\Users\Bethel\Documents\cmpg212 exam\final exam\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe
+C:\Users\Bethel\Documents\cmpg212 exam\final exam\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.pdb
+C:\Users\Bethel\Documents\cmpg212 exam\final exam\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.AssemblyReference.cache
+C:\Users\Bethel\Documents\cmpg212 exam\final exam\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.SuggestedBindingRedirects.cache
+C:\Users\Bethel\Documents\cmpg212 exam\final exam\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Dashboard.resources
+C:\Users\Bethel\Documents\cmpg212 exam\final exam\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Form1.resources
+C:\Users\Bethel\Documents\cmpg212 exam\final exam\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Login.resources
+C:\Users\Bethel\Documents\cmpg212 exam\final exam\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Properties.Resources.resources
+C:\Users\Bethel\Documents\cmpg212 exam\final exam\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Register.resources
+C:\Users\Bethel\Documents\cmpg212 exam\final exam\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.GenerateResource.cache
+C:\Users\Bethel\Documents\cmpg212 exam\final exam\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.CoreCompileInputs.cache
+C:\Users\Bethel\Documents\cmpg212 exam\final exam\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.exe
+C:\Users\Bethel\Documents\cmpg212 exam\final exam\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.pdb
+C:\Users\Bethel\Documents\cmpg212 exam\final exam\31709974_BZvomuno_cmpg212Exam\WindowsFormsApp2\bin\Debug\User.mdf
+C:\Users\Bethel\Documents\cmpg212 exam\final exam\31709974_BZvomuno_cmpg212Exam\WindowsFormsApp2\bin\Debug\User_log.ldf
+C:\Users\Bethel\Documents\cmpg212 exam\final exam\31709974_BZvomuno_cmpg212Exam\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe.config
+C:\Users\Bethel\Documents\cmpg212 exam\final exam\31709974_BZvomuno_cmpg212Exam\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe
+C:\Users\Bethel\Documents\cmpg212 exam\final exam\31709974_BZvomuno_cmpg212Exam\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.pdb
+C:\Users\Bethel\Documents\cmpg212 exam\final exam\31709974_BZvomuno_cmpg212Exam\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.AssemblyReference.cache
+C:\Users\Bethel\Documents\cmpg212 exam\final exam\31709974_BZvomuno_cmpg212Exam\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.SuggestedBindingRedirects.cache
+C:\Users\Bethel\Documents\cmpg212 exam\final exam\31709974_BZvomuno_cmpg212Exam\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Dashboard.resources
+C:\Users\Bethel\Documents\cmpg212 exam\final exam\31709974_BZvomuno_cmpg212Exam\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Form1.resources
+C:\Users\Bethel\Documents\cmpg212 exam\final exam\31709974_BZvomuno_cmpg212Exam\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Login.resources
+C:\Users\Bethel\Documents\cmpg212 exam\final exam\31709974_BZvomuno_cmpg212Exam\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Properties.Resources.resources
+C:\Users\Bethel\Documents\cmpg212 exam\final exam\31709974_BZvomuno_cmpg212Exam\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Register.resources
+C:\Users\Bethel\Documents\cmpg212 exam\final exam\31709974_BZvomuno_cmpg212Exam\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.GenerateResource.cache
+C:\Users\Bethel\Documents\cmpg212 exam\final exam\31709974_BZvomuno_cmpg212Exam\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.CoreCompileInputs.cache
+C:\Users\Bethel\Documents\cmpg212 exam\final exam\31709974_BZvomuno_cmpg212Exam\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.exe
+C:\Users\Bethel\Documents\cmpg212 exam\final exam\31709974_BZvomuno_cmpg212Exam\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.pdb
